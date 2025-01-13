@@ -13,7 +13,6 @@ I started my career journey in the field of cybersecurity, which I found intrigu
 
 
 🔭 I’m currently working on **Infinitum IT** <br>
-📫 How to reach me **mmustafakandil@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
