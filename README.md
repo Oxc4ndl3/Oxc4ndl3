@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammet Kandil</h1>
 <h3 align="center">Offensive Security Engineer</h3>
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
-
-
 I started my career journey in the field of cybersecurity, which I found intriguing and had a keen interest in. I have gained numerous experiences in this field and continue to do so. Thanks to my curiosity and interest, I am progressing steadily and rapidly in developing myself.
 
 - Cyber Threat Intelligence
@@ -11,8 +8,7 @@ I started my career journey in the field of cybersecurity, which I found intrigu
 - Red Teaming
 - OT Security 
 
-
-🔭 I’m currently working on **Infinitum IT** <br>
+<br>
 
 
 <h3 align="left">Connect with me:</h3>
