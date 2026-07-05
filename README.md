@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammet Kandil</h1>
 <h3 align="center">Offensive Security Engineer</h3>
 
-I started my career journey in the field of cybersecurity, which I found intriguing and had a keen interest in. I have gained numerous experiences in this field and continue to do so. Thanks to my curiosity and interest, I am progressing steadily and rapidly in developing myself.
+As a Red Team Penetration Testing Specialist, I identify and exploit logical and configuration-based vulnerabilities that often bypass automated tools. I don't just stop at finding flaws; I visualize the real-world impact by demonstrating how these weaknesses can be leveraged. Through hands-on techniques like system compromise, privilege escalation, and lateral movement, I map out the full extent of a potential breach. For every engagement, my ultimate goal is to push the boundaries of my skills, continuously expand my expertise, and embrace innovative approaches to reach my targets.
 
-- Cyber Threat Intelligence
-- Penetration Testing
-- Red Teaming
-- OT Security 
+• Cyber Threat Intelligence
+• Penetration Testing
+• Red Teaming
+• OT Security (Penetration Testing, Secure Network Topology)
 
 <br>
 
